@@ -10,6 +10,7 @@
 
 ## Cosas que usé
 * Wordpress API
+* Javascript
 * HTML
 * CSS
 
